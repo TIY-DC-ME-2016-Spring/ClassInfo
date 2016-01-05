@@ -1,5 +1,5 @@
 # The Iron Yard - Mobile Engineering (iOS)
-## DC 2015 Fall
+## DC 2016 Spring
 
     Tom Crawford
     Slack (preferred contact method)
@@ -37,7 +37,7 @@ There's a chance we'll have guest lecturers, field trips, and other fun stuff du
 
 ### Coursework
 
-Homework will be assigned daily, and often reviewed the next day. It is your responsibility to be sure you're keeping up with the homework and seek out help if you're struggling.
+Homework will be assigned daily, and often reviewed the next day. It is your responsibility to be sure you're keeping up with the homework and seek out help if you're struggling. That means you need to ask questions. If you don't understand something during the lecture, ask for clarification. It's better that you understand it, then you pretend to understand it and struggle later when it's harder to get help.
 
 The course will culminate in a large capstone project, the topics of which should be narrowed down by the end of week 8 and decided by the end of week 9. The last weeks of class will focus mostly on preparing those, with lectures being tailored to the needs of the projects. I'd encourage everyone to start thinking about what they'd like to accomplish here, as this project will likely be the anchor of your portfolio and an important part of your hiring success after graduation.
 

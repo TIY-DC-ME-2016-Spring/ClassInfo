@@ -1,5 +1,5 @@
 # The Iron Yard - Mobile Engineering (iOS) Pre-Work
-### DC 2015 Fall
+### DC 2016 Spring
 
     Tom Crawford
     Slack (preferred contact method)
@@ -19,19 +19,16 @@ Note: The day before class, we will have a setup party to help you with many of 
 
 ### 1. Get a Mac
 
-You will need a Mac running at least OSX Yosemite (or El Capitan). You cannot compile native code for iOS without a Mac. If your Mac cannot effectively run Yosemite, you will need to acquire one that can or does.
+You will need a Mac running at least OSX El Capitan. You cannot compile native code for iOS without a Mac. If your Mac cannot effectively run El Capitan, you will need to acquire one that can or does.
 
 
-### 2. Install OSX Yosemite (if you haven’t already)
+### 2. Install OSX El Capitan
 
 * You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/). If you already have an iOS device, you probably already have an Apple ID.
-* Download the Yosemite upgrade from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-yosemite/id915041082?mt=12).
-* Double-click "Install OS X Yosemite” to begin installation.
+* Download OS X from the Apple Store: [download here](https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12).
+* Double-click "Install OS X El Capitan” to begin installation.
 
 WARNING: The OS X upgrade can take a bit of time to complete and will require a restart. Plan on doing this in the evening or over a lunch break.
-
-NOTE: The public version of El Capitan comes out a little over a week after class begins. I strongly recommend you hold off on doing any upgrades (including to El Capitan) until after class is over. While it shouldn't cause any problems, it can, and I wouldn't want you to get behind because an install goes bad.
-
 
 ### 3. iOS Device
 
@@ -56,20 +53,22 @@ Early devices won’t work for much of the code in the class. While it is certai
 
 * Go to the [Apple Developer Site](https://developer.apple.com/xcode/downloads/) to download and install the latest _release_ version of Xcode. Do _not_ install the pre-release version, if there is one. Please make sure you have lots of Internet bandwidth and allow plenty of time for this download. It is generally a very large download. After getting the current version, do NOT update to a newer version. We will want to all be on the same version in class. If we decide to update to a newer version, we will all do it together.
 
-The current version that you should have installed is: Xcode 7 GM Seed. Do not install 7.1 Beta (or any Beta version). Any upgrades will be done as a class.
+The current version that you should have installed is: Xcode 7.2. Do not install a Beta version. Any upgrades or moves to Beta versions will be done as a class.
 
 ### 6. Sign up for a free Apple Developer account
 
-* While initially you can write some code, eventually you will need a developer account to test your code on a device and/or send it to the App Store for distribution. The Xcode simulator will not be enough for testing after just a couple weeks of coding.
+* While initially you can write some code, eventually you will need a developer account to test your code on a device and/or send it to the App Store for distribution. The Xcode simulator will not be enough for testing after just a couple weeks of class.
 * Go to the [Apple Developer Site](https://developer.apple.com/register/) to sign up for your account. As an individual developer, you will want to use your existing Apple ID, assuming you have one for iTunes. If you’ve never bought anything from iTunes, never had an Apple device, never bought anything from Apple online, and you don’t have an Apple ID, then you will want to create one.
-* While the prompts will allow you to create a free account, you will need a PAID developer account if you want to launch your app. The cost is $99/year. That allows you to submit apps to the app store. With Xcode 7, Apple no longer requires a paid developer account to test apps on devices. However, you will need one to submit an app to the app store, so if you want you can go ahead and get it.
+* While the prompts will allow you to create a free account, you will need a PAID developer account if you want to launch your app. The cost is $99/year. That allows you to submit apps to the app store. With Xcode 7, Apple no longer requires a paid developer account to test apps on devices. However, you will need one to submit an app to the app store, so if you want you can go ahead and get it now. In addition, later in the class some of the features will require a paid developer account to test (such as Push Notifications and HealthKit)
 
 
 ## Other Pre-Work
 
 Besides getting your equipment setup which we will verify at the Setup Party, you will want to get going on a few other topics.
 
-### 7. Typing
+### 7. Typing (DON'T SKIP THIS STEP!)
+
+Almost always, the reason that the people who struggle to keep up in the first week or two is NOT because they have a hard time with the concepts, but that they struggle to keep up with the typing!
 
 Believe it or not, a **lot** of time in the first weeks of programming is spent fixing simple typing errors. It would not be ridiculous to suggest that many of you will spend 12-24 hours (or more) fixing typing errors during class.
 
@@ -95,7 +94,7 @@ GitHub is a website which hosts Git repositories. We will be hosting all of our 
 1. Sign up for a GitHub account at https://github.com/ - something professional, if not exactly your name
 2. Make sure to add a profile picture, your full name, and a valid public email address
 3. Email me the username you choose so that I can get you added to the group we'll be using for class
-4. Check out the [GitHub Guides](https://guides.github.com/) if you want to learn how to use GitHub prior to class.
+4. Get to know the [GitHub Guides](https://guides.github.com/) they will help you be much more productive during class.
 
 
 ### 10. SourceTree
@@ -111,14 +110,23 @@ Slack is a chat tool. We will use it extensively throughout class to communicate
 2. Get the team name from Su and use it create & sign in to your account
 
 
-### 12. Apple Announcement 2015 September
+### 12. Apple Announcements
 
-The pace of change never stops. Each time there's an Apple announcement, there are things that we need to take into account. Things that need to change. This [announcement](http://www.apple.com/apple-events/september-2015/) was no different. Be sure to watch it before the first day of class.
+Apple makes announcements 2-3x per year, the most important of which is WWDC, though they usually all have at least some impact on developers. Right now, there are no developer conferences scheduled during this cohort, so we should have a relatively stable environment for development. If new things come up, we will handle them as they arrive.
 
 
-### 13. Other Software We Will Use Or Reference In Class
+### 13. Final Projects
+
+You may think it's too early to begin thinking about your final project. Maybe it is. However, I do strongly suggest you start keeping a list of app ideas for things you might want to develop. I always have a running list, so that if I'm bored or need a change of pace I can work on something. In addition, start keeping a list of apps (or features of apps) that you like or don't like. This will also become handy as you are developing apps in the future.
+
+
+### 14. Other Software We Will Use Or Reference In Class
 
 1. A Text Editor -  A few times in class you'll need a text editor (other than Xcode or TextEdit). I like [TextWrangler](https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12). You may have another favorite if you've done other coding classes. You can use any text editor you want. If you don't have a favorite get TextWrangler.
-2. An Image Editor - Photoshop is the mother of all image editors, but it's overkill (and crazy expensive) for this class. If you have it, great. If not, you can use your favorite image editor. I like [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12), but it doesn't matter as long as it can export PNGs with transparency
+2. An Image Editor - Photoshop is the mother of all image editors, but it's overkill for this class (and crazy expensive). If you have it, great. If not, you can use your favorite image editor. I like [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12), but it doesn't matter as long as it can export PNGs with transparency. Many people seem to like Sketch, though I haven't used it much.
 3. App Show - Apple recently allowed not only screenshots of apps, but also a short video. [App Show](https://www.techsmith.com/techsmith-appshow.html) from TechSmith will help you create it.
-4. We may also use optional tools like Core Data Editor, Balsamiq, but we'll get those as we need them.
+4. We may also use optional tools like Core Data Editor & Balsamiq, but we'll get those as we need them.
+
+### 15. TURN OFF AUTOMATIC UPDATES!
+
+On both your Mac and your iOS device(s), TURN OFF AUTOMATIC UPDATES to the operating systems and to Xcode (or basically all software on the Mac and iOS device). Yes, Apple wants the general public to automatically update their systems. You are no longer part of the general public. Yes, automatic updates are good...until you're a developer. When something changes and you didn't know it, debugging can be impossible. When something changes and you weren't ready for it, it can mean _days_ of rewriting code that didn't need to be rewritten. Right now, go turn off automatic updates on your Mac and any iOS device you may use in class. If an update comes out, we will decide to move as a class together. This is part of your new life as a developer. Everybody upgrades together.

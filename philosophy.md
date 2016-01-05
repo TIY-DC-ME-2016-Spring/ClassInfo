@@ -1,5 +1,5 @@
 # The Iron Yard - Mobile Engineering (iOS) Class Philosophy
-### DC 2015 Fall
+### DC 2016 Spring
 
     Tom Crawford
     Slack (preferred contact method)
@@ -46,7 +46,7 @@ Taking an intensive course like this can be like nothing else you ever do. Besid
 
 If there's anything resembling a golden rule at The Iron Yard, it's "Don't Be An Asshole." This is deserving further explanation, though.
 
-First and foremost: The Iron Yard is committed to creating safe environments for learning. To quote [Lambda Jam's Diversity Policy](http://www.lambdajam.com/policies.html), this means a safe environment for "people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification." If at any time something or someone makes you feel uncomfortable, contact any of the instructors, the Campus Director, or any Iron Yard staff member at any campus privately and we'll help.
+First and foremost: The Iron Yard is committed to creating safe environments for learning. To quote [Lambda Jam's Diversity Policy](http://www.lambdajam.com/policies/), this means a safe environment for "people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification." If at any time something or someone makes you feel uncomfortable, contact any of the instructors, the Campus Director, or any Iron Yard staff member at any campus privately and we'll help.
 
 All of our students will come to the class with different academic and professional backgrounds; all of our students will learn at different paces. The Iron Yard is dedicated to helping everyone learn to best of their capabilities. This means "don't compare yourself with other students." 
 
