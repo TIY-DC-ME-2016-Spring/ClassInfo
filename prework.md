@@ -1,5 +1,5 @@
 # The Iron Yard - Mobile Engineering (iOS) Pre-Work
-### DC 2016 Spring
+### Detroit 2016 Spring
 
     Tom Crawford
     Slack (preferred contact method)
