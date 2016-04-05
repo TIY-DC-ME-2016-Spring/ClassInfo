@@ -9,7 +9,7 @@ Course Info covers everything you need to know about the structure of the course
 
 ## Philosophy 
 
-Philosophy covers how we’re going to approach the class and what behavior we expect in class
+Philosophy covers how we’re going to approach the class and what behavior we expect in class ([direct link](https://github.com/TIY-DET-ME-2016-Spring/ClassInfo/blob/master/philosophy.md))
 
 ## Pre-Work 
 
